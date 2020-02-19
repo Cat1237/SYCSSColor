@@ -1,0 +1,8 @@
+framework module SYCSSColor {
+  umbrella header "SYCSSColor.h"
+  
+  export *
+  module * {
+    export *
+  }
+}
